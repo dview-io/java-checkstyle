@@ -5,7 +5,7 @@
 3. Click on Settings Icon in `Code Style` and then `Import Scheme` > `Import Intellij Code Style XML`
 4. Select the intellij-java-dview-google-style.xml file browser window
 
-## Setup IntelliJ for easier class JavaDoc generation
+## Setup IntelliJ for easy Class level JavaDoc generation
 
 ![IntelliJ automatic JavaDoc Generator.gif](gifs%2FIntelliJ%20automatic%20JavaDoc%20Generator.gif)
 1. Open IntelliJ IDEA.
