@@ -4,6 +4,12 @@
 ## Introduction
 The main goal is to make documentation that doesn't rely on specific ways things are done and is short and clear in its explanations. You can mention dependencies when necessary. Also, feel free to use HTML tags in the comments. Most of the tags are easy to understand.
 
+## Features
+### Maven Checkstyle Configuration:
+Ensure code quality during builds using Maven. [See how to Configure in your project](maven/README.md)
+### IntelliJ IDEA Java Checkstyle Configuration:
+Enforce coding standards directly within your IDE.[See how to Configure in Intellij](intellij/README.md)
+
 ## Sample JavaDoc Class
 ```java
 /**
@@ -59,12 +65,6 @@ public class MyClass {
 }
 
 ```
-## Features
-### Maven Checkstyle Configuration: 
-Ensure code quality during builds using Maven. [See how to Configure in your project](maven/README.md)
-### IntelliJ IDEA Java Checkstyle Configuration: 
-Enforce coding standards directly within your IDE.[See how to Configure in Intellij](intellij/README.md)
-
 
 
 
